@@ -208,3 +208,7 @@ __marimo__/
 
 # MLflow
 mlruns/
+.python_packages
+
+# Azure Functions local configuration
+local.settings.json
