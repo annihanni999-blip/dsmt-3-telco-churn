@@ -19,6 +19,7 @@ dependencies = [
 [dependency-groups]
 dev = [
     "pytest>=9.2.0",
+    "zensical>=0.1.1",
 ]
 
 [tool.ruff.lint]
